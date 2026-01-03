@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{CF26AF24-2F87-4DAC-95F3-3DE6EC358FA6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{65F6FDFA-3995-443E-BF93-D833A5353373}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskService", "TaskService", "{8B3C89B1-0A4A-4088-9213-B4D8ED6AB4EB}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CF26AF24-2F87-4DAC-95F3-3DE6EC358FA6} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{65F6FDFA-3995-443E-BF93-D833A5353373} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{8B3C89B1-0A4A-4088-9213-B4D8ED6AB4EB} = {CF26AF24-2F87-4DAC-95F3-3DE6EC358FA6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F3957BE-42EB-4469-AA54-586FFC255E7E}
+	EndGlobalSection
+EndGlobal
